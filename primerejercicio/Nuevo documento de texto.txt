@@ -1,0 +1,45 @@
+ forma manual 
+selecionanr babel typeScrip  progresive  web vuex router linter  despues enter
+ desspues dar y queires usar babel como alojamiento de typeScrip dar si
+ pick a linter v
+lint to save 
+in 
+
+yarn serve // levanbatr serve // npm serve // npm run serve 
+
+lavantar servidor y obtener ip local e ip dinamica  proyecto pwa instalr en el navegador en chrome lingthouse  genra un reporte  
+ npm install  firebase --save 
+crear proyecto en la consola de firebase en el navegador  pew-example 
+ 
+add comando  deploy  inthe pack.json " "deploy": "firebase deploy --only hosting""
+instalalr firebase init en el proyecto 
+firebase init 
+iniciar session 
+proyecto existente  existing projwect  
+hostig 
+nombre carpeta dist o directorio 
+index.html sera el principal. 
+firebase json
+firebase debug
+firebasde rc
+---------------------------------------------------------------------------------------------------------
+2 clase 
+npm  run build 
+npm run serve 
+npm run deploy 
+usar por pareja un repositorio privado mandasr l a url de permiso mmoreno@
+backend - tienda en linea -- instagram -- si usamos firebase  realizar la api  con vue 
+frontend - histagram--- tienda en linea 
+-------------------------------------------------------------------------
+ir a la consola  configuracion , aplicaciones agregar nueva  aplicacion el id de remitente dejarlo en 
+cloud meching agregar un certificado . generar par de claves copiar y pegar
+-----
+pruebas 
+mirar si te arroja el token 
+copiar el token 
+remplazar el key del servidor   firebase consola clave del servidor 
+to es del navegador. 
+ ------------
+login registro contraseña>> base de datos correo nombre y pasword
+al registrarse. genera id. debemos de almacenar el id de usuario.
+que podra hacer agregar amigos.u seguir usuarios. ver fotos publicas usuarios. 
